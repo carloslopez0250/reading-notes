@@ -24,6 +24,7 @@
 Growth Mindset
 : “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.” ( Dweck, 2015)
 
-~I found the presentation very insightful~
+~To keep a Growth Mindset I'm going to try to embrace challenges with an open mind, Persists when obstacles are hard, and have a "No pain, No Gain"
+effort mentality when it comes to embarcing any obstcales in my way.~
 
 
