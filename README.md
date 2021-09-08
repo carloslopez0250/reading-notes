@@ -1,5 +1,5 @@
 
-## What I learned about Growth midset
+## What I learned about Growth mindset
 
 
 1. **Fixed Mindset**
@@ -10,7 +10,7 @@
 - Views as a Threat *Success of Others*
 
 2. **Growth Mindset**
-- Embaraces *Challenges*
+- Embraces *Challenges*
 - Persists *Obstacles*
 - No Pain, No Gain *Effort*
 - Learns from *Criticism*
@@ -26,7 +26,7 @@ Growth Mindset
 
 1~To keep a Growth Mindset I'm going to try to embrace challenges with an open mind.~ 
 2~Persists when obstacles are hard.~ 
-3~Have a "No pain, No Gain" effort mentality when it comes to embarcing any obstcales in my way.~
+3~Have a "No pain, No Gain" effort mentality when it comes to embracing any obstacles in my way.~
 
 
 ## **ABOUT ME**
