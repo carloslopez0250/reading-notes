@@ -83,4 +83,4 @@
             - A good selection of extensions for your code flow. (Add functionality as you need it)
             
             
-     - **Thesis** - Go through Several of them and see which one works for you the best.
+   ## **Thesis** - Go through Several of them and see which one works for you the best.
