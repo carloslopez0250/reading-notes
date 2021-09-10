@@ -19,9 +19,9 @@ Contact me @ <carlos.lopez.0250@gmail.com>
 
 ## **Table of Contents**
 
-1. [Reading 1] (markdown.md)
-2. [Reading 2] (Class02_TerminalSetUp.md)
-3. [Reading 3] (Class03_RevisionsAndTheCloud.md)
+1. [Reading 1](markdown.md)
+2. [Reading 2](Class02_TerminalSetUp.md)
+3. [Reading 3](Class03_RevisionsAndTheCloud.md)
 4. Reading 4
 5. Reading 5
 6. Reading 6
