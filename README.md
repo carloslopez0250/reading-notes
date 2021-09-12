@@ -22,8 +22,8 @@ Contact me @ <carlos.lopez.0250@gmail.com>
 1. [Reading 1](markdown.md)
 2. [Reading 2](Class02_TerminalSetUp.md)
 3. [Reading 3](Class03_RevisionsAndTheCloud.md)
-4. Reading 4
-5. Reading 5
+4. [Reading 4](class04_structure_web_pages_with_HTML.md)
+5. [Reading 5](design_web_page_with_css.md)
 6. Reading 6
 7. Reading 7
 8. Reading 8

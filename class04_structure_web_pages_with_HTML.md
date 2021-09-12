@@ -15,3 +15,7 @@
         - Draft, Don't draw. Sketch, Don't Illustrate *Don't focus on Illustrating detail*
         - Add some detail and ger testing *usability*
         - Start turning your wireframes into prototypes
+3. **3 key principle**
+        - Clarity
+        - Confidence
+        - Simplicity        
