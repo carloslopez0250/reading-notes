@@ -29,9 +29,39 @@
             - *Fetching data from the server*
             - *third party APIs*
             - *Drawing Graphics*
-            - *video and audio APIs*
+            - *video and daudio APIs*
             - *Client-side storage*
 
 [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 
+# **Intermediate**
+
+1. Understanding Client-side JavaScript Frameworks
+            - *React*
+            - *Ember*
+            - *Vue*
+            - *Svelte*
+            - *Angular*
+2. Equal Comparisons and sameness
+            - *Strict equalilty using ===*
+            - *Loose equality using ==*
+            - *Same-value equality*
+            - *Same-value Zero equality*
+            - *abstract equality, strict eqality, and same value in the specification*
+            - *A model for understanding equality comparison*
+            - *When to use Object.is versus triple equals*
+            - *Caveat: Object.is and NAN*
+3. closures
+            - *Lexical scoping*
+            - *Closure*
+            - *Practical closures*
+            - *Emulating private methods with closures*
+            - *closure scope chain*
+            - *Creating closures in loops: a common mistake*
+            - *Performance considerations*
+
+
+## **[Input Output code link]**(https://code-maven.com/input-output-in-plain-javascript)
+
+## **[JavaScript Variables Link]**(https://www.w3schools.com/js/js_variables.asp)
