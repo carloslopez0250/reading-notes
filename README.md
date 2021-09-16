@@ -26,7 +26,7 @@ Contact me @ <carlos.lopez.0250@gmail.com>
 5. [Reading 5](design_web_pages_with_css.md)
 6. [Reading 6](class06_dynamic_web_pages_with_Javascript.md)
 7. [Reading 7](class07_programing_with_JS.md)
-8. Reading 8
+8. [Reading 8](operatorsandloops.md)
 
 ## What I learned about Growth mindset
 
